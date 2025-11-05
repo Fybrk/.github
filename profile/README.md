@@ -60,7 +60,6 @@ fybrk <path> list         # List all tracked files and their status
 |------|---------|--------|
 | [fybrk](https://github.com/Fybrk/fybrk) | Main sync engine & CLI | ✅ Production Ready |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | ✅ Live at fybrk.com |
-| [apps](https://github.com/Fybrk/apps) | Mobile applications | 🔄 In Development |
 | [examples](https://github.com/Fybrk/examples) | Usage examples | ✅ Complete |
 
 ## Security
