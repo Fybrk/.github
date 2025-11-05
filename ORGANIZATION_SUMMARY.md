@@ -8,8 +8,7 @@ Fybrk is a file synchronization system that operates without centralized cloud s
 
 | Repository | Description | Status |
 |------------|-------------|---------|
-| [core](https://github.com/Fybrk/core) | Sync engine library | Complete |
-| [cli](https://github.com/Fybrk/cli) | Command line interface | Complete |
+| [fybrk](https://github.com/Fybrk/fybrk) | Sync engine & CLI tool | Complete |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | Complete - Live at docs.fybrk.com |
 | [desktop](https://github.com/Fybrk/desktop) | Desktop application | In development |
 | [plugins](https://github.com/Fybrk/plugins) | Third-party integrations | In development |
@@ -17,7 +16,7 @@ Fybrk is a file synchronization system that operates without centralized cloud s
 
 ## Current Implementation
 
-The core library and CLI tool are functional. They provide:
+The fybrk repository contains both the core library and CLI tool. It provides:
 
 - File chunking with SHA-256 hashing
 - AES-256-GCM encryption

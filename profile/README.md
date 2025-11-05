@@ -31,8 +31,7 @@ make build
 
 | Name | Purpose | Status |
 |------|---------|--------|
-| [core](https://github.com/Fybrk/core) | Sync engine | Complete |
-| [cli](https://github.com/Fybrk/cli) | Command line tool | Complete |
+| [fybrk](https://github.com/Fybrk/fybrk) | Sync engine & CLI tool | Complete |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | Complete - Live |
 | [desktop](https://github.com/Fybrk/desktop) | GUI application | Planned |
 | [plugins](https://github.com/Fybrk/plugins) | Third-party integrations | Planned |
