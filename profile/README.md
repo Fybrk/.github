@@ -39,9 +39,7 @@ make build
 |------|---------|--------|
 | [fybrk](https://github.com/Fybrk/fybrk) | Sync engine & CLI tool | Complete |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | Complete - Live |
-| [apps](https://github.com/Fybrk/apps) | Applications | In-progress |
 | [plugins](https://github.com/Fybrk/plugins) | Third-party integrations | Planned |
-| [examples](https://github.com/Fybrk/examples) | Code samples | Planned |
 
 ## Security
 
