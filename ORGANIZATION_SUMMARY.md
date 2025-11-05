@@ -12,7 +12,6 @@ Fybrk is a file synchronization system that operates without centralized cloud s
 | [cli](https://github.com/Fybrk/cli) | Command line interface | Complete |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | Complete - Live at docs.fybrk.com |
 | [desktop](https://github.com/Fybrk/desktop) | Desktop application | In development |
-| [relay](https://github.com/Fybrk/relay) | NAT traversal service | In development |
 | [plugins](https://github.com/Fybrk/plugins) | Third-party integrations | In development |
 | [examples](https://github.com/Fybrk/examples) | Integration examples | In development |
 
