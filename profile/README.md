@@ -33,10 +33,10 @@ make build
 |------|---------|--------|
 | [core](https://github.com/Fybrk/core) | Sync engine | Complete |
 | [cli](https://github.com/Fybrk/cli) | Command line tool | Complete |
+| [docs](https://github.com/Fybrk/docs) | Documentation website | Complete - Live |
 | [desktop](https://github.com/Fybrk/desktop) | GUI application | Planned |
 | [relay](https://github.com/Fybrk/relay) | NAT traversal server | Planned |
 | [plugins](https://github.com/Fybrk/plugins) | Third-party integrations | Planned |
-| [docs](https://github.com/Fybrk/docs) | Documentation | Planned |
 | [examples](https://github.com/Fybrk/examples) | Code samples | Planned |
 
 ## Security
