@@ -32,6 +32,7 @@ make build
 ### Simple 3-Step Workflow
 
 **Device A (has files):**
+
 ```bash
 fybrk ~/Documents init    # Initialize folder for sync
 fybrk ~/Documents pair    # Generate QR code for pairing
@@ -39,6 +40,7 @@ fybrk ~/Documents sync    # Start real-time sync
 ```
 
 **Device B (wants to sync):**
+
 ```bash
 fybrk pair-with '<QR-CODE-DATA>'  # Join from QR code (works over internet!)
 fybrk ~/local/path sync           # Start syncing
@@ -60,7 +62,6 @@ fybrk <path> list         # List all tracked files and their status
 |------|---------|--------|
 | [fybrk](https://github.com/Fybrk/fybrk) | Main sync engine & CLI | ✅ Production Ready |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | ✅ Live at fybrk.com |
-| [examples](https://github.com/Fybrk/examples) | Usage examples | ✅ Complete |
 
 ## Security
 
