@@ -9,8 +9,8 @@ Fybrk synchronizes files across your devices without relying on centralized clou
 ## Installation
 
 ```bash
-git clone https://github.com/Fybrk/cli.git
-cd cli
+git clone https://github.com/Fybrk/fybrk.git
+cd fybrk
 make build
 ```
 
@@ -33,7 +33,7 @@ make build
 |------|---------|--------|
 | [fybrk](https://github.com/Fybrk/fybrk) | Sync engine & CLI tool | Complete |
 | [docs](https://github.com/Fybrk/docs) | Documentation website | Complete - Live |
-| [desktop](https://github.com/Fybrk/desktop) | GUI application | Planned |
+| [apps](https://github.com/Fybrk/apps) | Applications | In-progress |
 | [plugins](https://github.com/Fybrk/plugins) | Third-party integrations | Planned |
 | [examples](https://github.com/Fybrk/examples) | Code samples | Planned |
 
