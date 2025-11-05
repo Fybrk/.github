@@ -6,7 +6,13 @@ Distributed personal cloud with end-to-end encryption.
 
 Fybrk synchronizes files across your devices without relying on centralized cloud providers. Your data stays encrypted with keys that never leave your devices.
 
-## Installation
+## Get started quickly
+
+```bash
+curl -sSL https://fybrk.com/install.sh | bash
+```
+
+## Or build from source
 
 ```bash
 git clone https://github.com/Fybrk/fybrk.git
