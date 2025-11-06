@@ -65,6 +65,7 @@ fybrk                          # Sync current directory
 fybrk /path/to/folder          # Sync specific directory
 fybrk pair                     # Get pair URL to add more devices
 fybrk 'fybrk://pair?key=...'   # Join existing sync
+fybrk version                  # Show version info
 fybrk help                     # Show help
 ```
 
