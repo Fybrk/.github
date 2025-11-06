@@ -2,25 +2,25 @@
 
 **Real-time P2P file sync that actually works. Zero configuration, true 2-way sync.**
 
+## Quick Install
+
+```bash
+curl -sSL https://fybrk.com/install.sh | bash
+```
+
+That's it! Fybrk is now installed and ready to use.
+
 ## What is Fybrk?
 
 Fybrk syncs files in real-time across devices with zero configuration. Just run one command and your files sync automatically.
 
-## ✨ What Actually Works
+## What Actually Works
 
-- **🔄 True 2-Way Sync**: Changes on any device instantly appear on all connected devices
-- **⚡ Real-Time Detection**: File changes detected instantly using fsnotify
-- **🗄️ SQLite Database**: Tracks all file metadata locally with WAL mode
-- **🔌 WebSocket P2P**: Direct device-to-device communication
-- **🧪 Fully Tested**: 14 comprehensive tests, all passing
-
-## Quick Start
-
-```bash
-git clone https://github.com/Fybrk/fybrk
-cd fybrk/fybrk
-go build -o bin/fybrk cmd/fybrk/main.go
-```
+- **True 2-Way Sync**: Changes on any device instantly appear on all connected devices
+- **Real-Time Detection**: File changes detected instantly using fsnotify
+- **SQLite Database**: Tracks all file metadata locally with WAL mode
+- **WebSocket P2P**: Direct device-to-device communication
+- **Fully Tested**: 14 comprehensive tests, all passing
 
 ## Usage
 
