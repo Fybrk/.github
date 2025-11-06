@@ -27,6 +27,7 @@ Fybrk syncs files in real-time across devices with zero configuration. Just run 
 ### Simple 2-Step Workflow
 
 **Device 1:**
+
 ```bash
 fybrk ~/Documents
 # Starting Fybrk sync in: /Users/you/Documents
@@ -35,6 +36,7 @@ fybrk ~/Documents
 ```
 
 **Device 2:**
+
 ```bash
 fybrk 'fybrk://pair?key=abc123...'
 # Joining sync from pair URL...
@@ -72,17 +74,18 @@ fybrk help                     # Show help
 ## Testing
 
 Run comprehensive tests:
+
 ```bash
 ./comprehensive_test.sh
-# ✅ ALL TESTS PASSED! (14/14)
+# ALL TESTS PASSED! (14/14)
 ```
 
 ## Repositories
 
 | Name | Purpose | Status |
 |------|---------|--------|
-| [fybrk](https://github.com/Fybrk/fybrk) | Main sync engine & CLI | ✅ Working |
-| [docs](https://github.com/Fybrk/docs) | Documentation website | ✅ Updated |
+| [fybrk](https://github.com/Fybrk/fybrk) | Main sync engine & CLI | Working |
+| [docs](https://github.com/Fybrk/docs) | Documentation website | Updated |
 
 ## Architecture
 
@@ -91,13 +94,13 @@ Run comprehensive tests:
 - **WebSocket Server**: P2P communication
 - **SQLite Database**: File metadata and hash tracking
 
-## Status: ✅ WORKING
+## Status: WORKING
 
-- File watching: ✅ Working
-- Database tracking: ✅ Working
-- WebSocket P2P: ✅ Working
-- Sync engine: ✅ Working
-- Conflict resolution: ✅ Working
+- File watching: Working
+- Database tracking: Working
+- WebSocket P2P: Working
+- Sync engine: Working
+- Conflict resolution: Working
 
 ## License
 
